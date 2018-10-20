@@ -1,4 +1,7 @@
+[![npm version](https://badge.fury.io/js/async-javascript-terminal.svg)](https://badge.fury.io/js/async-javascript-terminal)
+
 ![logo](https://user-images.githubusercontent.com/816965/38487336-1d193960-3c23-11e8-8da6-9575b0eac3e9.png)
+
 
 # JavaScript Terminal
 
