@@ -20,11 +20,11 @@ An open-source JavaScript terminal emulator library, that works in your browser 
 Install with `npm` or with `yarn`.
 
 ```shell
-npm install javascript-terminal --save
+npm install async-javascript-terminal --save
 ```
 
 ```shell
-yarn add javascript-terminal
+yarn add async-javascript-terminal
 ```
 
 ## Usage
@@ -257,7 +257,7 @@ First, make sure you have  [Node.js](https://nodejs.org/en/download/), [Yarn](ht
 Now, fork and clone repo and install the dependencies.
 
 ```shell
-git clone https://github.com/rohanchandra/javascript-terminal.git
+git clone https://github.com/csprance/javascript-terminal.git
 cd javascript-terminal/
 yarn install
 ```
